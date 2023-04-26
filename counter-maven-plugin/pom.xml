@@ -35,5 +35,11 @@
             <version>3.8.2</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>com.gradle</groupId>
+            <artifactId>gradle-enterprise-maven-extension</artifactId>
+            <version>1.17</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 </project>
